@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.skills-table {
+    width: 99%;
+    margin: 10px;
+}
+
+.links {
+    text-decoration: none;
+}
+
+thead {
+    font-size: 18px;
+}
